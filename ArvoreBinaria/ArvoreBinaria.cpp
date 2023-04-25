@@ -75,7 +75,6 @@ void inicializar()
 	NO* raiz = NULL;
 	
 	cout << "Arvore inicializada \n";
-
 }
 
 
